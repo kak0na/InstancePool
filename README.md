@@ -32,7 +32,7 @@ There are many actor and object pools in the marketplace, but there is not yet a
 
 ![image-20251129230424094](README/image-20251129230424094.png)
 
-4. For UE5.6 and above, it is recommended to modify the collision settings.
+4. For UE5.6 and later versions, it is recommended to modify the collision settings of the instanceMeshComponen 
 
 ![image-20251130100659051](README/image-20251130100659051.png) 
 
