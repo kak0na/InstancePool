@@ -32,9 +32,13 @@ There are many actor and object pools in the marketplace, but there is not yet a
 
 ![image-20251129230424094](README/image-20251129230424094.png)
 
-4. When the object pool is insufficient, it will automatically expand, or it can be expanded manually.
+4. For UE5.6 and above, it is recommended to modify the collision settings.
 
-   ![image-20251129231433841](README/image-20251129231433841.png) 
+![image-20251130100659051](README/image-20251130100659051.png) 
+
+5. When the object pool is insufficient, it will automatically expand, or it can be expanded manually.
+
+![image-20251129231433841](README/image-20251129231433841.png) 
 
 
 
